@@ -21,7 +21,7 @@ df = pd.read_csv('Data.csv')
 nan_value = float("NaN")
 df.replace('',nan_value,inplace=True)
 df.dropna(inplace=True)
-print(df.shape)
+
 symbol = (df.iloc[0, 3])[0]
 df['Value'] = df['Value'].str[1:]
 
@@ -74,7 +74,6 @@ for i in range(R):
         df.iloc[i,3]*=100
 df['Specification'] = pd.to_numeric(df['Specification'])
 df['Area'] = pd.to_numeric(df['Area'])
-print(df['Area'].max())
 
 df.replace('', nan_value, inplace=True)
 df.dropna(inplace=True)
