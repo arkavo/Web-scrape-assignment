@@ -15,3 +15,1281 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1620941668543	geckodriver	INFO	Listening on 127.0.0.1:58929
+1620941671619	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofileH0bIwV"
+1620941672014	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620941673836	Marionette	INFO	Listening on port 58937
+1620941674282	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620941686733	Marionette	INFO	Stopped listening on port 58937
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620941757048	geckodriver	INFO	Listening on 127.0.0.1:59007
+1620941760104	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofilehBBbhc"
+1620941760512	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620941762177	Marionette	INFO	Listening on port 59015
+1620941762259	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+1620941784676	Marionette	INFO	Stopped listening on port 59015
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620942633567	geckodriver	INFO	Listening on 127.0.0.1:59474
+1620942636654	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofileUFlaTy"
+1620942637061	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620942638958	Marionette	INFO	Listening on port 59484
+1620942639311	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+1620942651891	Marionette	INFO	Stopped listening on port 59484
+1620942788582	geckodriver	INFO	Listening on 127.0.0.1:59676
+1620942791650	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofilejks6oe"
+1620942792052	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620942793746	Marionette	INFO	Listening on port 59684
+1620942793814	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620942823862	Marionette	INFO	Stopped listening on port 59684
+1620942971607	geckodriver	INFO	Listening on 127.0.0.1:59775
+1620942974699	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofileQzMrPZ"
+1620942975097	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620942976938	Marionette	INFO	Listening on port 59783
+1620942977363	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620943004523	Marionette	INFO	Stopped listening on port 59783
+1620943054800	geckodriver	INFO	Listening on 127.0.0.1:59856
+1620943057856	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofileWFXNqW"
+1620943058255	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620943059928	Marionette	INFO	Listening on port 59864
+1620943060011	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620943079092	Marionette	INFO	Stopped listening on port 59864
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620943103090	geckodriver	INFO	Listening on 127.0.0.1:59925
+1620943106141	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofilesrqdmh"
+1620943106533	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620943108142	Marionette	INFO	Listening on port 59933
+1620943108192	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+1620943298744	Marionette	INFO	Stopped listening on port 59933
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofile5T7YBg"
+1620943166352	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620943168322	Marionette	INFO	Listening on port 60097
+1620943168616	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+1620943298488	Marionette	INFO	Stopped listening on port 60097
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofilehbh8QR"
+1620943223499	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620943225200	Marionette	INFO	Listening on port 60256
+1620943225255	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+1620943298282	Marionette	INFO	Stopped listening on port 60256
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofileI1sA4f"
+1620943262899	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620943264570	Marionette	INFO	Listening on port 60400
+1620943264648	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+1620943297976	Marionette	INFO	Stopped listening on port 60400
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620943420023	geckodriver	INFO	Listening on 127.0.0.1:60572
+1620943423101	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofileOh9d6Q"
+1620943423529	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620943425455	Marionette	INFO	Listening on port 60581
+1620943425760	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+1620943534758	Marionette	INFO	Stopped listening on port 60581620943536747	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofile6hhdMc"
+1620943537151	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620943538789	Marionette	INFO	Listening on port 60730
+1620943538902	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+1620943623123	Marionette	INFO	Stopped listening on port 60730
+1620943655838	geckodriver	INFO	Listening on 127.0.0.1:60962
+1620943658911	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofileN7lauw"
+1620943659298	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620943660971	Marionette	INFO	Listening on port 60971
+1620943661069	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+1620943740433	Marionette	INFO	Stopped listening on port 60971620943740812	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofile6d2bgz"
+1620943741199	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620943742796	Marionette	INFO	Listening on port 61135
+1620943742869	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+1620943785051	Marionette	INFO	Stopped listening on port 61135
+1620943969435	geckodriver	INFO	Listening on 127.0.0.1:61348
+1620943972525	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofilepShuvp"
+1620943972918	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620943974597	Marionette	INFO	Listening on port 61356
+1620943974682	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+1620944004794	Marionette	INFO	Stopped listening on port 61356
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620944694184	geckodriver	INFO	Listening on 127.0.0.1:61734
+1620944697250	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofile2eioKt"
+1620944697639	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620944699313	Marionette	INFO	Listening on port 61743
+1620944699408	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+1620944724894	Marionette	INFO	Stopped listening on port 61743
+1620945042848	geckodriver	INFO	Listening on 127.0.0.1:62052
+1620945045885	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofileCHf52S"
+1620945046283	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620945048056	Marionette	INFO	Listening on port 62061
+1620945048502	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.99acres.com/js/tracking_core.min.52e14d211.js, line 1: ReferenceError: visualViewport is not defined
+1620945060737	Marionette	INFO	Stopped listening on port 62061
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620945398742	geckodriver	INFO	Listening on 127.0.0.1:62291
+1620945401770	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofileUj1put"
+1620945402260	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620945404289	Marionette	INFO	Listening on port 62299
+1620945404397	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620945414265	Marionette	INFO	Stopped listening on port 62299
+1620945745555	geckodriver	INFO	Listening on 127.0.0.1:62495
+1620945748591	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofilegMWJDb"
+1620945749049	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620945750815	Marionette	INFO	Listening on port 62503
+1620945751209	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620945777950	Marionette	INFO	Stopped listening on port 62503
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620945881710	geckodriver	INFO	Listening on 127.0.0.1:62596
+1620945884716	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofilerjwnyN"
+1620945885174	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620945887045	Marionette	INFO	Listening on port 62604
+1620945887337	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620945897251	Marionette	INFO	Stopped listening on port 62604
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620946189773	geckodriver	INFO	Listening on 127.0.0.1:62805
+1620946192794	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofileHsKqta"
+1620946193240	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620946194966	Marionette	INFO	Listening on port 62816
+1620946195416	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620946210477	Marionette	INFO	Stopped listening on port 62816
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620946343658	geckodriver	INFO	Listening on 127.0.0.1:62914
+1620946346674	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofile3K39mu"
+1620946347139	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620946349051	Marionette	INFO	Listening on port 62922
+1620946349291	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620946384227	Marionette	INFO	Stopped listening on port 62921620946385964	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofileMsa9sO"
+1620946386445	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620946388362	Marionette	INFO	Listening on port 62997
+1620946388593	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620946428597	Marionette	INFO	Stopped listening on port 62997
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620946551670	geckodriver	INFO	Listening on 127.0.0.1:63115
+1620946554689	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofile6c6e3A"
+1620946555166	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620946557026	Marionette	INFO	Listening on port 63126
+1620946557313	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620946641620	Marionette	INFO	Stopped listening on port 63126
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620949796315	geckodriver	INFO	Listening on 127.0.0.1:55213
+1620949799335	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofileSBKdFm"
+1620949799862	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620949801882	Marionette	INFO	Listening on port 55224
+1620949801970	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620949820551	Marionette	INFO	Stopped listening on port 55224
+1620949965800	geckodriver	INFO	Listening on 127.0.0.1:55363
+1620949968837	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofileYgM1tm"
+1620949969286	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620949971083	Marionette	INFO	Listening on port 55373
+1620949971460	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620949980436	Marionette	INFO	Stopped listening on port 55373
+1620950386878	geckodriver	INFO	Listening on 127.0.0.1:55590
+1620950389895	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofileewR2HV"
+1620950390374	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620950392380	Marionette	INFO	Listening on port 55599
+1620950392524	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620950430875	Marionette	INFO	Stopped listening on port 55599
+1620989352866	geckodriver	INFO	Listening on 127.0.0.1:55510
+1620989355880	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofilebHkX5C"
+1620989356358	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620989358500	Marionette	INFO	Listening on port 55521
+1620989359009	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620989449704	Marionette	INFO	Stopped listening on port 55521
+1620989857464	geckodriver	INFO	Listening on 127.0.0.1:55816
+1620989860500	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofileCumiKq"
+1620989860993	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620989862904	Marionette	INFO	Listening on port 55824
+1620989863126	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620989988307	Marionette	INFO	Stopped listening on port 55824
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofileXhQPLq"
+1620989911720	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620989914041	Marionette	INFO	Listening on port 55889
+1620989914390	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620989987998	Marionette	INFO	Stopped listening on port 55889
+0989939313	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofiledmBJ11"
+1620989939828	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620989941886	Marionette	INFO	Listening on port 55967
+1620989941962	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620989987708	Marionette	INFO	Stopped listening on port 55967
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620990567012	geckodriver	INFO	Listening on 127.0.0.1:56442
+1620990570038	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofileYylyf4"
+1620990570534	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620990572594	Marionette	INFO	Listening on port 56450
+1620990572663	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620990578527	Marionette	INFO	Stopped listening on port 56450
+1620990835539	geckodriver	INFO	Listening on 127.0.0.1:56586
+1620990838578	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofileJ9MYt6"
+1620990839030	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620990840905	Marionette	INFO	Listening on port 56595
+1620990841203	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620990890350	Marionette	INFO	Stopped listening on port 56595
+1620990905457	geckodriver	INFO	Listening on 127.0.0.1:56670
+1620990908474	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofile0sJbQH"
+1620990908962	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620990910819	Marionette	INFO	Listening on port 56679
+1620990911108	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620990920337	Marionette	INFO	Stopped listening on port 56679
+1620991157736	geckodriver	INFO	Listening on 127.0.0.1:56787
+1620991160766	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofilechI01w"
+1620991161217	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620991163003	Marionette	INFO	Listening on port 56801
+1620991163389	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620991167268	Marionette	INFO	Stopped listening on port 56801
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620991348005	geckodriver	INFO	Listening on 127.0.0.1:56939
+1620991351033	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofile0Y63Zo"
+1620991351509	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620991353424	Marionette	INFO	Listening on port 56947
+1620991353661	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620991358334	Marionette	INFO	Stopped listening on port 56947
+1620992589435	geckodriver	INFO	Listening on 127.0.0.1:57363
+1620992592474	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofilegKNQ5U"
+1620992593097	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620992595144	Marionette	INFO	Listening on port 57371
+1620992595598	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620992673369	Marionette	INFO	Stopped listening on port 57371
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofileEaRnG0"
+1620992653667	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620992655940	Marionette	INFO	Listening on port 57445
+1620992656243	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620992674782	Marionette	INFO	Stopped listening on port 57441620992675223	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofilel2L6Dh"
+1620992675715	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620992677493	Marionette	INFO	Listening on port 57525
+1620992677844	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620992851806	Marionette	INFO	Stopped listening on port 57525
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofilepiLNXS"
+1620992746594	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620992748684	Marionette	INFO	Listening on port 57617
+1620992749148	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620992849084	Marionette	INFO	Stopped listening on port 57617
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620993767785	geckodriver	INFO	Listening on 127.0.0.1:58163
+1620993770793	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofileiKJqFR"
+1620993771270	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620993773111	Marionette	INFO	Listening on port 58171
+1620993773424	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620993780820	Marionette	INFO	Stopped listening on port 58171
+1620993804301	geckodriver	INFO	Listening on 127.0.0.1:58244
+1620993807328	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofile3Bh4nz"
+1620993807803	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620993809731	Marionette	INFO	Listening on port 58252
+1620993809952	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620993928004	Marionette	INFO	Stopped listening on port 58252
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621005588821	geckodriver	INFO	Listening on 127.0.0.1:51295
+1621005591869	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofileGoQEGS"
+1621005592310	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621005594483	Marionette	INFO	Listening on port 51308
+1621005594554	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621005653917	Marionette	INFO	Stopped listening on port 5130162
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofilez03Aau"
+1621005654419	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621005656500	Marionette	INFO	Listening on port 51555
+1621005656599	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621005720224	Marionette	INFO	Stopped listening on port 51555
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621033456132	geckodriver	INFO	Listening on 127.0.0.1:49273
+1621033459153	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofiledjp35n"
+1621033459578	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621033461452	Marionette	INFO	Listening on port 49281
+1621033461778	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621033627619	Marionette	INFO	Stopped listening on port 49281
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofilerQgpJ5"
+1621033614525	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621033616320	Marionette	INFO	Listening on port 49384
+1621033616735	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621033627418	Marionette	INFO	Stopped listening on port 49384
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621033736477	geckodriver	INFO	Listening on 127.0.0.1:49474
+1621033739512	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofiled3Q1nT"
+1621033739911	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621033741746	Marionette	INFO	Listening on port 49482
+1621033742136	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621033747297	Marionette	INFO	Stopped listening on port 49482
+1621033816431	geckodriver	INFO	Listening on 127.0.0.1:49564
+1621033819459	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofilevn68Lw"
+1621033819846	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621033821819	Marionette	INFO	Listening on port 49573
+1621033822080	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621034023495	Marionette	INFO	Stopped listening on port 49573
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofile13q5XD"
+1621033970995	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621033972769	Marionette	INFO	Listening on port 49698
+1621033973201	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621034023259	Marionette	INFO	Stopped listening on port 49698
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofiled7qKMn"
+1621033993354	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621033995185	Marionette	INFO	Listening on port 49779
+1621033995547	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621034002236	Marionette	INFO	Stopped listening on port 49779
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621034261659	geckodriver	INFO	Listening on 127.0.0.1:49931
+1621034264663	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofileQMNmHq"
+1621034265144	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621034267018	Marionette	INFO	Listening on port 49945
+1621034267287	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621034269743	Marionette	INFO	Stopped listening on port 49945
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621034330902	geckodriver	INFO	Listening on 127.0.0.1:50075
+1621034333906	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofileDwm8lt"
+1621034334335	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621034336155	Marionette	INFO	Listening on port 50084
+1621034336527	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621034340565	Marionette	INFO	Stopped listening on port 50084
+1621034535950	geckodriver	INFO	Listening on 127.0.0.1:50195
+1621034538975	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofileudNMrA"
+1621034539419	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621034541305	Marionette	INFO	Listening on port 50203
+1621034541608	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621034583658	Marionette	INFO	Stopped listening on port 50203
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofileoI03A2"
+1621034565062	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621034567092	Marionette	INFO	Listening on port 50271
+1621034567257	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621034571243	Marionette	INFO	Stopped listening on port 50271
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621034671331	geckodriver	INFO	Listening on 127.0.0.1:50388
+1621034674349	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofile95XtOY"
+1621034674773	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621034676706	Marionette	INFO	Listening on port 50396
+1621034676968	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621034688430	Marionette	INFO	Stopped listening on port 50396
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621034842222	geckodriver	INFO	Listening on 127.0.0.1:50508
+1621034845261	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofile7ESbAl"
+1621034845683	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621034847590	Marionette	INFO	Listening on port 50516
+1621034847882	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621034867736	Marionette	INFO	Stopped listening on port 50516
+1621034884158	geckodriver	INFO	Listening on 127.0.0.1:50582
+1621034887185	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofileyKh9uB"
+1621034887610	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621034889553	Marionette	INFO	Listening on port 50590
+1621034889808	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1621034893793	Marionette	INFO	Stopped listening on port 50590
+1621034922700	geckodriver	INFO	Listening on 127.0.0.1:50659
+1621034925738	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofilee9xpxr"
+1621034926160	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621034928106	Marionette	INFO	Listening on port 50667
+1621034928364	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621034932380	Marionette	INFO	Stopped listening on port 50667
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621034971293	geckodriver	INFO	Listening on 127.0.0.1:50728
+1621034974323	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofileTVa0uQ"
+1621034974768	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621034976790	Marionette	INFO	Listening on port 50736
+1621034976944	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621034985884	Marionette	INFO	Stopped listening on port 50736
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621035153256	geckodriver	INFO	Listening on 127.0.0.1:50858
+1621035156272	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofileAWfC94"
+1621035156794	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621035158782	Marionette	INFO	Listening on port 50869
+1621035158901	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621035163663	Marionette	INFO	Stopped listening on port 50869
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621035272486	geckodriver	INFO	Listening on 127.0.0.1:50949
+1621035275502	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofilekPr6dT"
+1621035275952	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621035277837	Marionette	INFO	Listening on port 50957
+1621035278127	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621035281533	Marionette	INFO	Stopped listening on port 50957
+1621035425476	geckodriver	INFO	Listening on 127.0.0.1:51078
+1621035428515	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofilezbpJhf"
+1621035428962	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621035430864	Marionette	INFO	Listening on port 51086
+1621035431136	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621035435605	Marionette	INFO	Stopped listening on port 51086
+1621035962352	geckodriver	INFO	Listening on 127.0.0.1:51233
+1621035965388	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofile9wMs8G"
+1621035965818	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621035967845	Marionette	INFO	Listening on port 51241
+1621035968009	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621035972724	Marionette	INFO	Stopped listening on port 51241
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621035989509	geckodriver	INFO	Listening on 127.0.0.1:51313
+1621035992537	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofileUkdKJa"
+1621035992979	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621035994995	Marionette	INFO	Listening on port 51323
+1621035995161	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621035999216	Marionette	INFO	Stopped listening on port 51323
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621036012241	geckodriver	INFO	Listening on 127.0.0.1:51390
+1621036015269	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofileYNugIF"
+1621036015676	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621036017641	Marionette	INFO	Listening on port 51398
+1621036017891	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621036021958	Marionette	INFO	Stopped listening on port 51398
+1621036036311	geckodriver	INFO	Listening on 127.0.0.1:51458
+1621036039363	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofileouZPxg"
+1621036039875	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621036042923	Marionette	INFO	Listening on port 51466
+1621036042996	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621036095437	Marionette	INFO	Stopped listening on port 51466
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofileF5eVgJ"
+1621036086704	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621036088752	Marionette	INFO	Listening on port 51536
+1621036088799	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621036093922	Marionette	INFO	Stopped listening on port 51536
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621036122796	geckodriver	INFO	Listening on 127.0.0.1:51601
+1621036125812	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofileA0m4X3"
+1621036126269	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621036128252	Marionette	INFO	Listening on port 51609
+1621036128441	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621036132825	Marionette	INFO	Stopped listening on port 51609
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621036148681	geckodriver	INFO	Listening on 127.0.0.1:51668
+1621036151721	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofile53AvTg"
+1621036152257	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621036154219	Marionette	INFO	Listening on port 51676
+1621036154348	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621036158171	Marionette	INFO	Stopped listening on port 51676
+1621036202361	geckodriver	INFO	Listening on 127.0.0.1:51741
+1621036205380	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofileBjAYCb"
+1621036205813	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621036207842	Marionette	INFO	Listening on port 51750
+1621036208008	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621036211705	Marionette	INFO	Stopped listening on port 51750
+1621036240372	geckodriver	INFO	Listening on 127.0.0.1:51811
+1621036243409	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofileD9c5bw"
+1621036243835	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621036245842	Marionette	INFO	Listening on port 51820
+1621036246035	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621036249007	Marionette	INFO	Stopped listening on port 51820
+1621036264472	geckodriver	INFO	Listening on 127.0.0.1:51876
+1621036267501	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofile8qxyrm"
+1621036267947	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621036269982	Marionette	INFO	Listening on port 51884
+1621036270124	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621036273402	Marionette	INFO	Stopped listening on port 51884
+1621036495012	geckodriver	INFO	Listening on 127.0.0.1:51963
+1621036498051	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofilebRCdh2"
+1621036498497	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621036500372	Marionette	INFO	Listening on port 51971
+1621036500677	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621036503551	Marionette	INFO	Stopped listening on port 51971
+1621036520690	geckodriver	INFO	Listening on 127.0.0.1:52026
+1621036523707	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofileJyYAv4"
+1621036524181	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621036526106	Marionette	INFO	Listening on port 52035
+1621036526329	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621036530059	Marionette	INFO	Stopped listening on port 52035
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621036664704	geckodriver	INFO	Listening on 127.0.0.1:52165
+1621036667729	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofileyoSc7T"
+1621036668174	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621036670033	Marionette	INFO	Listening on port 52173
+1621036670355	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621036673826	Marionette	INFO	Stopped listening on port 52173
+1621036727163	geckodriver	INFO	Listening on 127.0.0.1:52250
+1621036730182	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofiletyavy8"
+1621036730617	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621036732535	Marionette	INFO	Listening on port 52259
+1621036732803	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621036735916	Marionette	INFO	Stopped listening on port 52259
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621036756670	geckodriver	INFO	Listening on 127.0.0.1:52314
+1621036759689	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofileLrMNcT"
+1621036760129	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621036762042	Marionette	INFO	Listening on port 52323
+1621036762310	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621036764732	Marionette	INFO	Stopped listening on port 52323
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621036815241	geckodriver	INFO	Listening on 127.0.0.1:52405
+1621036818271	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofileqYSiZW"
+1621036818705	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621036820636	Marionette	INFO	Listening on port 52413
+1621036820891	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621036826849	Marionette	INFO	Stopped listening on port 52413
+1621036872681	geckodriver	INFO	Listening on 127.0.0.1:52493
+1621036875712	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofileHIrdE3"
+1621036876155	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621036878167	Marionette	INFO	Listening on port 52505
+1621036878336	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621036881223	Marionette	INFO	Stopped listening on port 52505
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621036900778	geckodriver	INFO	Listening on 127.0.0.1:52565
+1621036903808	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofilet4XMnk"
+1621036904272	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621036906268	Marionette	INFO	Listening on port 52574
+1621036906431	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621036925617	Marionette	INFO	Stopped listening on port 52574
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621036936888	geckodriver	INFO	Listening on 127.0.0.1:52639
+1621036939902	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofileOacGuz"
+1621036940320	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621036942534	Marionette	INFO	Listening on port 52648
+1621036943024	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621036947203	Marionette	INFO	Stopped listening on port 52648
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621036969685	geckodriver	INFO	Listening on 127.0.0.1:52720
+1621036972716	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofilewvyn3M"
+1621036973188	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621036975230	Marionette	INFO	Listening on port 52728
+1621036975339	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621036978510	Marionette	INFO	Stopped listening on port 52728
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621037036397	geckodriver	INFO	Listening on 127.0.0.1:52793
+1621037039419	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofile50iGJx"
+1621037039886	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621037041838	Marionette	INFO	Listening on port 52801
+1621037042052	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621037046490	Marionette	INFO	Stopped listening on port 52801
+1621037071037	geckodriver	INFO	Listening on 127.0.0.1:52869
+1621037074066	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofileGPXlJl"
+1621037074493	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621037076309	Marionette	INFO	Listening on port 52877
+1621037076688	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621037081246	Marionette	INFO	Stopped listening on port 52877
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621037114406	geckodriver	INFO	Listening on 127.0.0.1:52948
+1621037117433	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofilevgQKb2"
+1621037117878	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621037119743	Marionette	INFO	Listening on port 52956
+1621037120061	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 1876, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1621037122899	Marionette	INFO	Stopped listening on port 52956
+1621061138302	geckodriver	INFO	Listening on 127.0.0.1:56035
+1621061141313	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofileTRlq4l"
+1621061141919	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621061144154	Marionette	INFO	Listening on port 56044
+1621061144440	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621061149140	Marionette	INFO	Stopped listening on port 56044
+1621063907838	geckodriver	INFO	Listening on 127.0.0.1:56704
+1621063910842	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofilee1JfZP"
+1621063911261	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621063913490	Marionette	INFO	Listening on port 56716
+1621063913966	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621063934429	Marionette	INFO	Stopped listening on port 56716
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621064223925	geckodriver	INFO	Listening on 127.0.0.1:56865
+1621064226947	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofilej3ImrQ"
+1621064227352	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621064229160	Marionette	INFO	Listening on port 56874
+1621064229570	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621064588442	Marionette	INFO	Stopped listening on port 56874
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofile5OHtOp"
+1621064459164	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621064461023	Marionette	INFO	Listening on port 57006
+1621064461308	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621064589314	Marionette	INFO	Stopped listening on port 57006
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofile04Dsqz"
+1621064561083	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621064563037	Marionette	INFO	Listening on port 57097
+1621064563301	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621064589918	Marionette	INFO	Stopped listening on port 57097
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofilek84nMG"
+1621064589537	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621064591723	Marionette	INFO	Listening on port 57174
+1621064592084	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621064596472	Marionette	INFO	Stopped listening on port 57174
+1621064695770	geckodriver	INFO	Listening on 127.0.0.1:57296
+1621064698809	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofileBsheRt"
+1621064699175	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621064700787	Marionette	INFO	Listening on port 57305
+1621064700831	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621064917420	Marionette	INFO	Stopped listening on port 57305
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofileEzORSP"
+1621064727648	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621064729569	Marionette	INFO	Listening on port 57369
+1621064729908	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621064917159	Marionette	INFO	Stopped listening on port 57369
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621065863230	geckodriver	INFO	Listening on 127.0.0.1:57714
+1621065866255	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofiled7ABgC"
+1621065866825	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621065868824	Marionette	INFO	Listening on port 57724
+1621065868880	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621065886538	Marionette	INFO	Stopped listening on port 57721621065887931	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofileRBTAhv"
+1621065888275	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621065889934	Marionette	INFO	Listening on port 57807
+1621065889978	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621066284221	Marionette	INFO	Stopped listening on port 57807
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621070487736	geckodriver	INFO	Listening on 127.0.0.1:58887
+1621070490813	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofileAR2ung"
+1621070491167	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621070492840	Marionette	INFO	Listening on port 58895
+1621070492865	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621070548567	Marionette	INFO	Stopped listening on port 58891621070548875	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofileGWU9jr"
+1621070549248	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621070551422	Marionette	INFO	Listening on port 59019
+1621070551546	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621070563298	Marionette	INFO	Stopped listening on port 59019
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621079706832	geckodriver	INFO	Listening on 127.0.0.1:60466
+1621079709854	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofilejO46JX"
+1621079710287	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621079712061	Marionette	INFO	Listening on port 60474
+1621079712479	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621079786988	Marionette	INFO	Stopped listening on port 60474
+1621079873823	geckodriver	INFO	Listening on 127.0.0.1:60595
+1621079876857	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofileeU9fdS"
+1621079877224	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621079878873	Marionette	INFO	Listening on port 60605
+1621079878989	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621080075748	Marionette	INFO	Stopped listening on port 60605
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofilelnrUl7"
+1621080005441	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621080007448	Marionette	INFO	Listening on port 60728
+1621080007604	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621080075519	Marionette	INFO	Stopped listening on port 60728
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621080140562	geckodriver	INFO	Listening on 127.0.0.1:60879
+1621080143588	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofile7YHq2S"
+1621080144017	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621080145906	Marionette	INFO	Listening on port 60888
+1621080146209	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621080215641	Marionette	INFO	Stopped listening on port 60888
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621080284233	geckodriver	INFO	Listening on 127.0.0.1:61015
+1621080287268	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofileu45ACF"
+1621080287739	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621080289386	Marionette	INFO	Listening on port 61025
+1621080289888	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621080528193	Marionette	INFO	Stopped listening on port 61025
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofiletygI3g"
+1621080415145	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621080416954	Marionette	INFO	Listening on port 61155
+1621080417373	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621080527972	Marionette	INFO	Stopped listening on port 61155
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621080575912	geckodriver	INFO	Listening on 127.0.0.1:61396
+1621080578936	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofile5zgpro"
+1621080579377	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621080581250	Marionette	INFO	Listening on port 61404
+1621080581556	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621080659057	Marionette	INFO	Stopped listening on port 61404
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621080719243	geckodriver	INFO	Listening on 127.0.0.1:61661
+1621080722270	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofileuQhr1f"
+1621080722723	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621080724373	Marionette	INFO	Listening on port 61671
+1621080724408	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621080795382	Marionette	INFO	Stopped listening on port 61671
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621080829148	geckodriver	INFO	Listening on 127.0.0.1:61900
+1621080832185	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofileWnzglw"
+1621080832690	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621080834615	Marionette	INFO	Listening on port 61912
+1621080834817	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621080854318	Marionette	INFO	Stopped listening on port 61912
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621080858773	geckodriver	INFO	Listening on 127.0.0.1:62010
+1621080861810	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofile2ErbnW"
+1621080862206	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621080864081	Marionette	INFO	Listening on port 62018
+1621080864437	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621080875927	Marionette	INFO	Stopped listening on port 62018
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621081493050	geckodriver	INFO	Listening on 127.0.0.1:49935
+1621081496108	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Line\\AppData\\Local\\Temp\\rust_mozprofile4GEf18"
+1621081497791	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621081506033	Marionette	INFO	Listening on port 49961
+1621081506104	Marionette	WARN	TLS certificate errors will be ignored for this session
