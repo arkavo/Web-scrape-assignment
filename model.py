@@ -88,6 +88,8 @@ regr.fit(X,Y)
 #Regression coefficient
 R_cf = regr.coef_
 print('Linear Regression Coefficient: ',R_cf)
+
+
 X_train, X_test, y_train, y_test = train_test_split(X, Y, test_size=0.2, random_state=0)
 sc = StandardScaler()
 X_train = sc.fit_transform(X_train)
@@ -109,3 +111,11 @@ clf = clf.fit(X_train, y_train)
 y_pred = clf.predict(X_test)
 print("Accuracy:", metrics.accuracy_score(y_test, y_pred))
 
+spec = input('Specification: ')
+area = input('Area: ')
+
+inp = pd.DataFrame({'Specification':[spec],'Area':[area]})
+preds = inp[['Specification','Area']]
+print("Linear regression prediction: "+str(regr.predict(preds))+"lac inr")
+print("Random forest classifier prediction: "+str(regressor.predict(preds))+"lac inr")
+print("Decision tree prediction: " + str(clf.predict(preds))+"lac inr")
